@@ -21,7 +21,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "TuNombre\\Calculadora\\CalculadoraServiceProvider"
+                "alfito69420\\Calculadora\\CalculadoraServiceProvider"
             ]
         }
     },
